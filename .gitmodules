@@ -1,0 +1,3 @@
+[submodule "lib/mlab-time"]
+	path = lib/mlab-time
+	url = git@github.com:blongworth/mlab-time.git
